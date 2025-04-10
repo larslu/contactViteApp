@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+}
+
+.contact-form {
+    margin: 20px;
+}
+
+input[type="text"], input[type="email"] {
+
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 10px;
+
+}
+
+button {
+    padding: 5px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+.delete-button {
+    padding: 2px 5px;
+    margin-left: 5px;
+    background-color: red;
+    color: white;
+    border: 1px solid black;
+    cursor: pointer;
+    margin-top: 4px;
+
+}
